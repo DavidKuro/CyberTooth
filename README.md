@@ -1,7 +1,4 @@
-# CyberTooth
-An built with Django 
 
-{% load static %}
 <!DOCTYPE html>
 <html lang="en">
     
